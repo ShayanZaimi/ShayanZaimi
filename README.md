@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Shayan Zaimi<br>👨‍🎓 MS.c in Electrical Engineering - Power Electronics & Electrical Machines<br>💻Computer Science: Programming, Data Analysis & Scientific Computing<br>👨‍💻 I’m looking for job opportunities<br>📫 How to reach me: LinkedIn
+### 💫 About Me:
+##👋 Hi, I’m Shayan Zaimi<br>👨‍🎓 MS.c in Electrical Engineering - Power Electronics & Electrical Machines<br>💻Computer Science: Programming, Data Analysis & Scientific Computing<br>👨‍💻 I’m looking for job opportunities<br>📫 How to reach me: LinkedIn
 
 
 ## 🌐 Socials:
