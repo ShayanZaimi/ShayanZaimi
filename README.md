@@ -25,12 +25,13 @@
 | 🎨 Design | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) |
 
 ## 📚 Publications & Research:
-**Microgrid Damping Improvement Using High-Pass Filter-Based Virtual Synchronous Generator**<br>
+[![Paper](https://img.shields.io/static/v1?label=IEEE&message=Microgrid%20Damping%20Improvement%20Using%20High-Pass%20Filter-Based%20Virtual%20Synchronous%20Generator&color=blueviolet&labelColor=00629B&style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11213657)<br>
 👨‍🔬 Authors: Shayan Zaimi, Ashkan Moradi Naserkhani, Sharara Rehimi, Amin Karimi, Rahmatollah Mirzaei, Hassan Bevrani<br>
 📍 33rd International Conference on Electrical Engineering (ICEE 2025)<br>
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICEE67339.2025.11213657-success?style=for-the-badge)](https://doi.org/10.1109/ICEE67339.2025.11213657)
 <br>
-**Microgrid Stability and Damping Improvement Using Virtual Synchronous Generator**<br>
+<br>
+[![Paper](https://img.shields.io/static/v1?label=IEEE&message=Microgrid%20Stability%20and%20Damping%20Improvement%20Using%20Virtual%20Synchronous%20Generator&color=orange&labelColor=00629B&style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10768117)<br>
 👨‍🔬 Authors: Ashkan Moradi Naserkhani, Shayan Zaimi, Rahmatollah Mirzaei, Hassan Bevrani<br>
 📍 10th International Conference on Control, Instrumentation and Automation (ICCIA 2024)<br>
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCIA65044.2024.10768117-success?style=for-the-badge)](https://doi.org/10.1109/ICCIA65044.2024.10768117)
