@@ -1,5 +1,5 @@
 ## 💫 About Me:
-#### 👋 Hi, I’m Shayan Zaimi<br>👨‍🎓 MS.c in Electrical Engineering - Power Electronics & Electrical Machines<br>💻 Computer Science: Programming, Data Analysis & Scientific Computing<br>🎯 Currently focused on Scientific Computing, MATLAB Development and Data Analysis<br>💼 Open to Research and Engineering Opportunities<br>📫 How to reach me: LinkedIn<br> 
+👋 Hi, I’m Shayan Zaimi<br>👨‍🎓 MS.c in Electrical Engineering - Power Electronics & Electrical Machines<br>💻 Computer Science: Programming, Data Analysis & Scientific Computing<br>🎯 Currently focused on Scientific Computing, MATLAB Development and Data Analysis<br>💼 Open to Research and Engineering Opportunities<br>📫 How to reach me: LinkedIn<br> 
 
 ## 🔬 Research Interests:
 ✅ Power Electronics<br> ✅ Renewable Energy Systems<br> ✅ Numerical Methods<br> ✅ Data Analysis<br> ✅ Machine Learning for Engineering
