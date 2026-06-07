@@ -1,9 +1,12 @@
 ## 💫 About Me:
-#### 👋 Hi, I’m Shayan Zaimi<br>👨‍🎓 MS.c in Electrical Engineering - Power Electronics & Electrical Machines<br>💻 Computer Science: Programming, Data Analysis & Scientific Computing<br>🎯 Currently focused on Scientific Computing, MATLAB Development and Data Analysis<br>💼 Open to Research and Engineering Opportunities<br>📫 How to reach me: LinkedIn<br> 🔬 Research Interests
+#### 👋 Hi, I’m Shayan Zaimi<br>👨‍🎓 MS.c in Electrical Engineering - Power Electronics & Electrical Machines<br>💻 Computer Science: Programming, Data Analysis & Scientific Computing<br>🎯 Currently focused on Scientific Computing, MATLAB Development and Data Analysis<br>💼 Open to Research and Engineering Opportunities<br>📫 How to reach me: LinkedIn<br> 
+
+## 🔬 Research Interests:
 ✅ Power Electronics<br> ✅ Renewable Energy Systems<br> ✅ Numerical Methods<br> ✅ Data Analysis<br> ✅ Machine Learning for Engineering
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-zaimi-83629b21a) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shayan-zaimi-83629b21a)<br>
+![](https://komarev.com/ghpvc/?username=ShayanZaimi&label=Profile+Views&style=for-the-badge)
 
 ## 💻 Tech Stack
 
@@ -25,7 +28,5 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-![](https://komarev.com/ghpvc/?username=ShayanZaimi&label=Profile+Views&style=for-the-badge)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShayanZaimi&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
