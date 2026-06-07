@@ -1,5 +1,5 @@
 ## 💫 About Me:
-👋 Hi, I’m Shayan Zaimi<br>👨‍🎓 MS.c in Electrical Engineering - Power Electronics & Electrical Machines<br>💻 Computer Science: Programming, Data Analysis & Scientific Computing<br>🎯 Currently focused on Scientific Computing, MATLAB Development and Data Analysis<br>💼 Open to Research and Engineering Opportunities<br>📫 How to reach me: LinkedIn<br> 
+👋 Hi, I’m Shayan Zaimi<br>👨‍🎓 MS.c in Electrical Engineering - Power Electronics & Electrical Machines<br>💻 Computer Science: Programming, Data Analysis & Scientific Computing<br>🎯 Currently focused on Scientific Computing, MATLAB Development and Data Analysis<br>💼 Open to Research and Engineering Opportunities<br>📚 Author of publications in Microgrid Stability and Virtual Synchronous Generators<br>📫 How to reach me: LinkedIn<br> 
 
 ## 🔬 Research Interests:
 ✅ Power Electronics<br> ✅ Renewable Energy Systems<br> ✅ Numerical Methods<br> ✅ Data Analysis<br> ✅ Machine Learning for Engineering
@@ -25,17 +25,15 @@
 | 🎨 Design | ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) |
 
 ## 📚 Publications & Research:
-[![ICEE 2025](https://img.shields.io/badge/IEEE-ICEE%202025-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11213657)<br>
 **Microgrid Damping Improvement Using High-Pass Filter-Based Virtual Synchronous Generator**<br>
 👨‍🔬 Authors: Shayan Zaimi, Ashkan Moradi Naserkhani, Sharara Rehimi, Amin Karimi, Rahmatollah Mirzaei, Hassan Bevrani<br>
 📍 33rd International Conference on Electrical Engineering (ICEE 2025)<br>
-🔗 DOI: 10.1109/ICEE67339.2025.11213657
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICEE67339.2025.11213657-success?style=for-the-badge)](https://doi.org/10.1109/ICEE67339.2025.11213657)
 <br>
-[![ICCIA 2024](https://img.shields.io/badge/IEEE-ICCIA%202024-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10768117)<br>
 **Microgrid Stability and Damping Improvement Using Virtual Synchronous Generator**<br>
 👨‍🔬 Authors: Ashkan Moradi Naserkhani, Shayan Zaimi, Rahmatollah Mirzaei, Hassan Bevrani<br>
 📍 10th International Conference on Control, Instrumentation and Automation (ICCIA 2024)<br>
-🔗 DOI: 10.1109/ICCIA65044.2024.10768117
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCIA65044.2024.10768117-success?style=for-the-badge)](https://doi.org/10.1109/ICCIA65044.2024.10768117)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ShayanZaimi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
