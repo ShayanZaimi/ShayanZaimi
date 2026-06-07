@@ -29,4 +29,3 @@
 ![](https://komarev.com/ghpvc/?username=ShayanZaimi&label=Profile+Views&style=for-the-badge)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShayanZaimi&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShayanZaimi)](https://github.com/ryo-ma/github-profile-trophy)
