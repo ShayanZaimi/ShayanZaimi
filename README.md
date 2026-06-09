@@ -1,4 +1,4 @@
-## 💫About Me:
+## 💫 About Me:
 👋 Hi, I’m Shayan Zaimi<br>👨‍🎓 MS.c in Electrical Engineering - Power Electronics & Electrical Machines<br>💻 Computer Science: Programming, Data Analysis & Scientific Computing<br>🎯 Currently focused on Scientific Computing, MATLAB Development and Data Analysis<br>💼 Open to Research and Engineering Opportunities<br>📚 Author of publications in Microgrid Stability and Virtual Synchronous Generators<br>📫 How to reach me: LinkedIn<br> 
 
 ## 🔬 Research Interests:
